@@ -16,16 +16,16 @@
 -->
 <resources>
     <!-- TODO: Replace this by your app's app ID! -->
-    <string name="app_id">ReplaceMe</string>
+    <string name="app_id">401517335646</string>
 
     <!-- TODO: Replace these by your achievement/leaderboard IDs! -->
-    <string name="achievement_prime">ReplaceMe</string>
-    <string name="achievement_really_bored">ReplaceMe</string>
-    <string name="achievement_bored">ReplaceMe</string>
-    <string name="achievement_humble">ReplaceMe</string>
-    <string name="achievement_arrogant">ReplaceMe</string>
-    <string name="achievement_leet">ReplaceMe</string>
+    <string name="achievement_prime">CgkI3qix4tcLEAIQAQ</string>
+    <string name="achievement_really_bored">CgkI3qix4tcLEAIQAw</string>
+    <string name="achievement_bored">CgkI3qix4tcLEAIQAw</string>
+    <string name="achievement_humble">CgkI3qix4tcLEAIQAg</string>
+    <string name="achievement_arrogant">CgkI3qix4tcLEAIQAw</string>
+    <string name="achievement_leet">CgkI3qix4tcLEAIQBA</string>
 
-    <string name="leaderboard_easy">ReplaceMe</string>
-    <string name="leaderboard_hard">ReplaceMe</string>
+    <string name="leaderboard_easy">CgkI3qix4tcLEAIQBw</string>
+    <string name="leaderboard_hard">CgkI3qix4tcLEAIQCA</string>
 </resources>
